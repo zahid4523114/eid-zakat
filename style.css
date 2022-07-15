@@ -149,7 +149,12 @@ iframe {
   background-color: rgb(255, 223, 223);
   padding: 20px;
   border-radius: 10px;
+  display: flex;
 }
+.side-img {
+  margin-right: 20px;
+}
+
 /* section-4   */
 .gallery {
   padding: 2% 0;
